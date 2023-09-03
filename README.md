@@ -47,8 +47,8 @@ My Current Workstation
 </h2>
 
 <div align="center">
-
-![LAPTOP](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
+  
+![LAPTOP](https://img.shields.io/badge/MACOS-Macbook%20Pro%20M2-110000?style=for-the-badge&logo=apple&logoColor=white) 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
