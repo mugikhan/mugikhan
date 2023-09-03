@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Monsterrat&duration=3000&pause=2000&color=2FE442&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Mugi+Khan;Full-Stack+Software+Engineer"></a>
 </p>
 
-<img src="https://github.com/mugikhan/mugikhan/blob/master/life_balance.gif" align="right" height="160px" />
+<img src="https://github.com/mugikhan/mugikhan/blob/main/life_balance.gif" align="right" height="180px" />
 
 - 👨🏽‍💻   **Full-Stack Software Engineer** currently working with Flutter and Java.
 
