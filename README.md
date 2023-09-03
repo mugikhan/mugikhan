@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17F72E&width=435&lines=Hi%2C+My+name+is+Mugi+Khan;Fullstack+Developer"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Monsterrat&duration=3000&pause=2000&color=2FE442&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Mugi+Khan;Full-Stack+Software+Engineer"></a>
 </p>
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 👨🏽‍💻   **Full-Stack Software Engineer** currently working with Flutter and Java.
 
@@ -10,7 +12,21 @@
 
 - 🗓   Ask me about **Flutter**, **Javascript** or **Svelte**.
 
-<div class="center">
+## Contact ☎️
+<div align="center">
+<a href="https://mugikhan.com/">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/mughees-khan-9261aa15b/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:mugikhan@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
+
+## Languages, Tools, and Skills 🛠
+<div align="center">
 <img src="https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
 <img src="https://img.shields.io/badge/Svelte-F96743?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -21,9 +37,18 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
+</div>
+
+<h2 align="center">
+My Current Workstation
+</h2>
+
+<div align="center">
+
+![LAPTOP](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
