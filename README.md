@@ -53,7 +53,11 @@ My Current Workstation
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake animation](https://github.com/mugikhan/mugikhan/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/mugikhan/count.svg)
