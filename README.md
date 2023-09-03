@@ -13,7 +13,7 @@
 - 🗓   Ask me about **Flutter**, **Javascript** or **Svelte**.
 
 ## Contact ☎️
-<div align="center">
+<div>
 <a href="https://mugikhan.com/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
@@ -26,7 +26,7 @@
 </div>
 
 ## Languages, Tools, and Skills 🛠
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
 <img src="https://img.shields.io/badge/Svelte-F96743?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -42,11 +42,11 @@
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
 </div>
 
-<h2 align="center">
+<h2>
 My Current Workstation
 </h2>
 
-<div align="center">
+<div>
   
 ![LAPTOP](https://img.shields.io/badge/MACOS-Macbook%20Pro%20M2-110000?style=for-the-badge&logo=apple&logoColor=white) 
 </div>
@@ -67,7 +67,7 @@ My Current Workstation
 </picture>
 
 ## The numbers Mason, what do they mean?
-<div align="center">
+<div>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
