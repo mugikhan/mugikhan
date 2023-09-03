@@ -53,11 +53,7 @@ My Current Workstation
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/mugikhan/mugikhan/blob/output/github-contribution-grid-snake.svg)
 
 ## Music 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mugikhan007&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mugikhan007&redirect=true)
