@@ -72,8 +72,5 @@ My Current Workstation
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugikhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-## Music 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mugikhan007&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mugikhan007&redirect=true)
-
 ## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/mugikhan/count.svg)
